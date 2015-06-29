@@ -121,5 +121,6 @@
 	<modules>
 		<module>org.szkiler.dp.core</module>
 		<module>org.szkiler.dp.server</module>
+		<module>org.szkiler.dp.server.ui</module>
 	</modules>
 </project>

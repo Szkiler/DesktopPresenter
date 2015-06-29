@@ -7,10 +7,9 @@
     <artifactId>DesktopPresenter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>org.szkiler.dp</groupId>
+  
   <artifactId>org.szkiler.dp.server</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>org.szkiler.dp.server</name>
+  <name>dp-server</name>
 
   <dependencies>
   	<dependency>
